@@ -7,12 +7,12 @@
 # 🤖 Day 5: PID-Based Line Follower | Robotics Bootcamp
 ## Tuned:
 <div align="center">
-  <img src="https://github.com/AbrarMahmud/RoboBootCamp_Day5/blob/master/misc_data/tuned.gif" alt="github-small" width="50%">
+  <img src="https://github.com/AbrarMahmud/RoboBootCamp_Day5/blob/master/misc_data/tuned.gif" alt="github-small" width="40%">
 </div>
 
 ## Untuned:
 <div align="center">
-  <img src="https://github.com/AbrarMahmud/RoboBootCamp_Day5/blob/master/misc_data/untuned.gif" alt="github-small" width="50%">
+  <img src="https://github.com/AbrarMahmud/RoboBootCamp_Day5/blob/master/misc_data/untuned.gif" alt="github-small" width="40%">
 </div>
 
 Welcome to Day 5 of the Robotics Bootcamp! 🎯  
@@ -23,10 +23,10 @@ In this session, you will build a **PID-controlled Line Following Robot** using 
 ## 🛠️ Final Hardware Build
 Visualize the final setup:
 <div align="center">
-  <img src="https://github.com/AbrarMahmud/RoboBootCamp_Day5/blob/master/misc_data/1751475046733.jpg" alt="github-small" width="50%">
+  <img src="https://github.com/AbrarMahmud/RoboBootCamp_Day5/blob/master/misc_data/1751475046733.jpg" alt="github-small" width="40%">
 </div>
 <div align="center">
-  <img src="https://github.com/AbrarMahmud/RoboBootCamp_Day5/blob/master/misc_data/1751475046712.jpg" alt="github-small" width="50%">
+  <img src="https://github.com/AbrarMahmud/RoboBootCamp_Day5/blob/master/misc_data/1751475046712.jpg" alt="github-small" width="40%">
 </div>
 
 ---
