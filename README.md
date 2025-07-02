@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# 🤖 Day 5: PID-Based Line Follower | Robotics Bootcamp
+# 🤖 Day 5: PID-Based LFR | Robotics Bootcamp
 ## Tuned:
 <div align="center">
   <img src="https://github.com/AbrarMahmud/RoboBootCamp_Day5/blob/master/misc_data/tuned.gif" alt="github-small" width="40%">
