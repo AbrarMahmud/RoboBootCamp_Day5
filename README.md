@@ -5,9 +5,15 @@
 </p>
 
 # 🤖 Day 5: PID-Based Line Follower | Robotics Bootcamp
+## Tuned:
+<div align="center">
+  <img src="https://github.com/AbrarMahmud/N_DOF_simulation/blob/main/DH_matrix_to_arm_visualizer/6_DOF_arm.gif" alt="github-small" width="50%">
+</div>
 
-![Tuned](misc_data/tuned.gif)
-![Untuned](misc_data/untuned.gif)
+## Untuned:
+<div align="center">
+  <img src="https://github.com/AbrarMahmud/N_DOF_simulation/blob/main/DH_matrix_to_arm_visualizer/6_DOF_arm.gif" alt="github-small" width="50%">
+</div>
 
 Welcome to Day 5 of the Robotics Bootcamp! 🎯  
 In this session, you will build a **PID-controlled Line Following Robot** using an **IR sensor array**, an **L298N motor driver**, and an **Arduino Uno**.
@@ -16,8 +22,12 @@ In this session, you will build a **PID-controlled Line Following Robot** using 
 
 ## 🛠️ Final Hardware Build
 Visualize the final setup:
-
-<img src="img1.jpg" width="48%"> <img src="img2.jpg" width="48%">
+<div align="center">
+  <img src="https://github.com/AbrarMahmud/N_DOF_simulation/blob/main/DH_matrix_to_arm_visualizer/6_DOF_arm.gif" alt="github-small" width="50%">
+</div>
+<div align="center">
+  <img src="https://github.com/AbrarMahmud/N_DOF_simulation/blob/main/DH_matrix_to_arm_visualizer/6_DOF_arm.gif" alt="github-small" width="50%">
+</div>
 
 ---
 
@@ -60,15 +70,6 @@ Visualize the final setup:
 - **D (Derivative):** Helps reduce overshoot and smoothen turns.
 
 Start with only **P**, then incrementally introduce **D**. Use **serial print** for real-time debugging.
-
----
-
-## 📈 Output Demo
-
-| Status      | Visual Example        |
-|-------------|------------------------|
-| Tuned       | ![](misc_data/tuned.gif) |
-| Untuned     | ![](misc_data/untuned.gif) |
 
 ---
 
