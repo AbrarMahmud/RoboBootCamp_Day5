@@ -74,7 +74,7 @@ Start with only **P**, then incrementally introduce **D**. Use **serial print** 
 ---
 
 ## 🚀 Get Started
-1. Upload `line_follower_pid.ino` to your Arduino.
+1. Upload `pid_control.ino` to your Arduino.
 2. Power the bot and place it on a black line over white surface.
 3. Watch the bot follow the path and fine-tune the PID parameters in the code as needed.
 
