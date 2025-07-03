@@ -40,8 +40,9 @@ Visualize the final setup:
 | GND       | GND         |
 | D1        | A0          |
 | D2        | A1          |
-| D3        | A3          |
-| D4        | A4          |
+| D3        | A2          |
+| D4        | A3          |
+| D5        | A4          |
 | D6        | A5          |
 
 ### Motor Driver (L298N) → Arduino
